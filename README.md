@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmanooj
 - 👀 I’m interested in System Design, Algorithms & Datastructures, Design patterns & Cloud computing
 - 🌱 I’m currently learning How to put my time to a better use & learn new things while having fun!! 
-- 💞️ I’m looking to collaborate on any open source, part-time/contract projects.
+- 💞️ I’m looking to collaborate on open source, record my learnings here.
 - 📫 How to reach me - murali.manooj@gmail.com
 
 <!---
