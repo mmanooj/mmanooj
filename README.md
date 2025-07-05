@@ -1,23 +1,44 @@
-# 👋 Hey there, I'm Manooj Murali!
+# 👋 Hello, I'm Manooj Murali
 
-🎯 I'm a passionate software developer and open-source enthusiast who loves building meaningful tech. Whether it's crafting scalable web applications, automating workflows, or experimenting with new tools and frameworks — I enjoy solving real-world problems with clean code.
+🎯 **Engineering Leader | Architect | Mentor | Technologist**
+
+I'm a seasoned software architect with 16+ years of experience designing and delivering scalable, cloud-native, and privacy-aware systems across startup and enterprise landscapes. From leading critical ad tech at DAZN to helping build Spreadsheet.com from the ground up, I bring deep technical expertise and a passion for aligning technology with business outcomes.
 
 ---
 
-## 💼 What I Do
+## 💼 Professional Highlights
 
-- 💻 **Software Development** – Backend-heavy, full-stack capable
-- 🛠️ **Open Source Contributions** – Always looking to give back to the community
-- 🌐 **Web & API Development** – RESTful APIs, clean architecture, and efficient design
-- 🚀 **Learning & Exploring** – Constantly leveling up in tools, frameworks, and languages
+- 🧠 **Architect @ DAZN**  
+  Leading architecture for ad-tech serving ~3M concurrent users across Web, Mobile, and CTV.  
+  Driving privacy-compliant, revenue-impacting systems like Consent Framework, Sponsored Ads & AI Shop.
+
+- 🏗 **Founding Engineer @ Spreadsheet.com**  
+  Spearheaded development of features like Automations, Connected Tables, Subscriptions & REST APIs.  
+  Helped define early architecture, CI/CD, testing strategy, and team culture.
+
+- 🚀 **Principal Engineer @ Progress Software**  
+  Improved scalability & compliance for cloud aPaaS offerings; contributed to internationalization, OWASP security, and App Marketplace strategy.
+
+- 🔁 **Scrum Master & Developer @ Pegasystems / TCS**  
+  Optimized core BPM pipelines, led Agile transformation, and acted as international tech liaison.
 
 ---
 
 ## 🧰 Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Hazelcast](https://img.shields.io/badge/-Hazelcast-025E8C?logo=hazelcast&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions&logoColor=white)
 
 ---
 
@@ -28,12 +49,25 @@
 
 ---
 
-## 📫 Let's Connect!
+## 🏆 Certifications
 
-- 🔗 [GitHub](https://github.com/mmanooj)
-- 🧑‍💼 [LinkedIn](https://in.linkedin.com/in/manooj-murali)
-- 📧 Email: *murali.manooj@gmail.com*
+- 🧾 **SCJP** – Sun Certified Java Programmer  
+- 🧾 **CSA** – Pegasystems Certified System Architect
 
 ---
 
-⭐️ Thanks for stopping by! Feel free to just say hi.
+## 🗣️ Languages
+
+English | Hindi | Tamil | Telugu
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/manooj-murali)
+- 📧 murali.manooj@gmail.com
+- 🗂 [GitHub](https://github.com/mmanooj)
+
+---
+
+⭐️ Thanks for visiting! Explore my repositories or reach out for collaboration opportunities.
