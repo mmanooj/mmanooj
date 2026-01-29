@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Manooj Murali
 
-🎯 **Engineering Leader | Architect | Mentor | Technologist**
+🎯 **Engineering Leader | Architect | Mentor**
 
-I'm a seasoned software architect with 16+ years of experience designing and delivering scalable, cloud-native, and privacy-aware systems across startup and enterprise landscapes. From leading critical ad tech at DAZN to helping build Spreadsheet.com from the ground up, I bring deep technical expertise and a passion for aligning technology with business outcomes.
+I'm a seasoned software architect with 17+ years of experience designing and delivering scalable, cloud-native, and privacy-aware systems across startup and enterprise landscapes. From leading critical ad tech at DAZN to helping build Spreadsheet.com from the ground up, I bring deep technical expertise and a passion for aligning technology with business outcomes.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a seasoned software architect with 16+ years of experience designing and del
 
 - 🧠 **Architect @ DAZN**  
   Leading architecture for ad-tech serving ~3M concurrent users across Web, Mobile, and CTV.  
-  Driving privacy-compliant, revenue-impacting systems like Consent Framework, Sponsored Ads & AI Shop.
+  Driving privacy-compliant, revenue-impacting systems like Consent Framework, Sponsored Ads, AI Shop, Identify Resolution, Foxtel AdTech Migration, AI Smart Remote.
 
 - 🏗 **Founding Engineer @ Spreadsheet.com**  
   Spearheaded development of features like Automations, Connected Tables, Subscriptions & REST APIs.  
@@ -42,13 +42,6 @@ I'm a seasoned software architect with 16+ years of experience designing and del
 
 ---
 
-## 📈 GitHub Stats
-
-![Manooj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmanooj&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmanooj&layout=compact&theme=radical)
-
----
-
 ## 🏆 Certifications
 
 - 🧾 **SCJP** – Sun Certified Java Programmer  
@@ -70,4 +63,4 @@ English | Hindi | Tamil | Telugu
 
 ---
 
-⭐️ Thanks for visiting! Explore my repositories or reach out for collaboration opportunities.
+⭐️ Thanks for visiting!
